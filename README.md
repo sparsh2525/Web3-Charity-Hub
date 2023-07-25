@@ -1,4 +1,6 @@
-" Web3-Charity-Hub " -> HackTheConf
+" Web3-Charity-Hub " -> Hack Web3Conf India '23
+
+![image](https://github.com/sparsh2525/Web3-Charity-Hub/assets/62590661/6179b92a-1a1e-4bff-821d-8a777ba218e9)
 
 The state of Himachal Pradesh is experiencing a state of turmoil due to severe floods and landslides, resulting in extensive devastation. Thousands of individuals find themselves displaced, stranded, and cut off from assistance. 
 
